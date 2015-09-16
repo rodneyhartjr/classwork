@@ -1,0 +1,13 @@
+header, main, div, footer {
+	border: 1px solid #ccc;
+}
+
+div.float-left {
+	float: left;
+	width: 50%;
+	box-sizing: border-box;
+}
+
+footer {
+	clear: both;
+}

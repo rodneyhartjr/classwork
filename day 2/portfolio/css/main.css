@@ -1,0 +1,18 @@
+body {
+	font-family: sans-serif;
+	font-size: 18px;
+	border-top: 5px solid #222222;
+	border-bottom: 5px solid #222222;
+	margin: 30px;
+	padding: 50px;
+	background-color: #f6f6f6;
+}
+
+header {
+	text-align: center;
+}
+
+hr {
+	border-top: 1px solid #222222;
+}
+

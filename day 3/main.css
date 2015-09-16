@@ -1,0 +1,28 @@
+ul li:first-child {
+	font-weight: bold;
+}
+
+ul li:nth-child(even) {
+	color: red;
+}
+
+ul li:last-child {
+	color: blue;
+}
+
+p:first-child {
+	color: red;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a[href*="http"] {
+	color: orange;
+}
